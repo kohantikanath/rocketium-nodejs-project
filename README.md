@@ -99,14 +99,9 @@ nodejs-project/
 - **dotenv**: Loads environment variables from a .env file
 - **nodemon**: Utility that monitors for any changes in your source and automatically restarts your server
 
-## API Endpoints
-- `GET /api/data`: Retrieve data
-  - Query Parameters:
-    - `filter`: Filter data (e.g., `?filter=field:value`)
-    - `sort`: Sort data (e.g., `?sort=field:desc`)
+## API Documentation
+[Postman API Documentation](https://documenter.getpostman.com/view/31053140/2sA3kdBdBr).
 
-## License
-This project is [ISC](https://opensource.org/licenses/ISC) licensed.
 
 ## Acknowledgements
 - [Express.js](https://expressjs.com/)
